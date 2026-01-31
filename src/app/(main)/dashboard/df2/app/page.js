@@ -1,4 +1,4 @@
-"use client"
+
 //import Image from 'next/image'
  
 // import mountains from '../public/mountains.jpg'
