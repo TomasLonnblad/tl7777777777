@@ -1,7 +1,7 @@
 "use client"
-import Image from 'next/image'
+//import Image from 'next/image'
  
-import mountains from '../public/mountains.jpg'
+// import mountains from '../public/mountains.jpg'
  
 
 
